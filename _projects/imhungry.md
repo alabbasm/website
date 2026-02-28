@@ -9,4 +9,4 @@ Predict how long dinners gonna take:
 
 
 
-Full code and explanation can be found [here]()
+Full write up can be found [here](alabbasm.github.io/imhungry/). 

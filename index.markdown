@@ -7,15 +7,16 @@ title: "Malik Alabbas"
 permalink: /  
 ---
 
-<img
-  src="{{ '/assets/images/photo_me.jpg' | relative_url }}"
-  alt="Malik Alabbas"
-  style="
-    float: left;
-    margin: 0 1rem 1rem 0;
-    width: 200px;
-  "
-/>
+<figure style="float: left; margin: 0 1rem 1rem 0; width: 200px;">
+  <img
+    src="{{ '/assets/images/IMG_0748.jpeg' | relative_url }}"
+    alt="Malik Alabbas portrait"
+    style="width: 100%; border-radius: 8px;"
+  />
+  <figcaption style="font-size: 0.9rem; text-align: center; margin-top: 0.5rem;">
+    Me next to a giant Nobel coin in Stockholm 
+  </figcaption>
+</figure>
 
 
 Hi! I'm Malik, a student at the [University of Michigan](https://umich.edu/) studying [Biophysics](https://lsa.umich.edu/biophysics) and [Mathematical Biology](https://lsa.umich.edu/math/undergraduates.html). I enjoy learning about new tools (especially computational!) and their relation to solving problems in Chemistry and Medicine. 
