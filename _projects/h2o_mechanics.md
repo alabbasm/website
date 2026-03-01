@@ -11,4 +11,4 @@ Setting up the coordinate system took a bit of annoying math which you can check
 
 Here's a nice little manipulate object generated from Mathematica showing the Energy as a function of a bunch of toggleable inputs:
 
-<iframe src="https://www.wolframcloud.com/obj/2e2925cb-d5ef-4c0f-af17-df4d1982289d?_embed=iframe" width="600" height="800"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/2e2925cb-d5ef-4c0f-af17-df4d1982289d?_embed=iframe" width="1200" height="800"></iframe>
