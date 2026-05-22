@@ -1,0 +1,23 @@
+entries:
+  - title: projects
+    url: /projects/
+    entries:
+      - title: imhungry
+        url: /projects/imhungry/
+      - title: h2o mechanics
+        url: /projects/h2o_mechanics/
+      - title: pmagmove
+        url: /projects/pmagmove/
+  - title: blog
+    url: /blog/
+    entries:
+      - title: machine learning notes
+        url: /blog/machine_learning/
+      - title: notes on diffusion
+        url: /blog/diffusion/
+      - title: notes on enzyme catalysis
+        url: /blog/enzyme_catalysis/
+      - title: diff eq notes
+        url: /blog/diff_eq/
+      - title: the merits of education
+        url: /blog/value_educ/

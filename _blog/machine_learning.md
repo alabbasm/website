@@ -2,6 +2,7 @@
 layout: page
 title: Machine Learning Notes
 permalink: /blog/machine_learning/
+description: Notes and exercises from the EECS 545 curriculum.
 ---
 
 Notes and worked out exercises based off of EECS 545 schedule posted [here](https://github.com/thejakeyboy/umich-eecs545-lectures?tab=readme-ov-file). 

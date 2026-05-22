@@ -27,7 +27,7 @@ url: "https://malikalabbas.github.io/" # the base hostname & protocol for your s
 github_username:  alabbasm
 linkedin_username: malikalabbas
 
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
@@ -36,9 +36,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-  musings:
-    output: true
-    permalink: /musings/:name/
   blog:
     output: true
     permalink: /blog/:name/

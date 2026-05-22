@@ -2,6 +2,7 @@
 layout: page
 title: H2O Mechanics
 permalink: /projects/h2o_mechanics/
+description: TIP3P force field energy potential between two water molecules.
 ---
 
 

@@ -1,19 +1,11 @@
-<footer class="footer">
-  <p>&copy; Malik Alabbas {{ site.time | date: "%Y" }}</p>
+<footer>
   <p>
-    <a href="https://github.com/{{ site.github_username }}"
-       target="_blank" rel="noopener noreferrer">
-      GitHub
-    </a>
-    |
-    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"
-       target="_blank" rel="noopener noreferrer">
-      LinkedIn
-    </a>
+    &copy; Malik Alabbas {{ site.time | date: "%Y" }} &mdash;
+    <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">GitHub</a> /
+    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   </p>
 </footer>
 
-<!-- MathJax for LaTeX rendering -->
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">

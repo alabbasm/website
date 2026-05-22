@@ -2,6 +2,7 @@
 layout: page
 title: imhungry
 permalink: /projects/imhungry/
+description: Predict how long dinner is going to take.
 ---
 
 

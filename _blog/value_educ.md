@@ -1,7 +1,8 @@
 ---
 layout: page
 title: The Merits of Education
-permalink: /musings/value_educ/
+permalink: /blog/value_educ/
+description: On learning names vs. understanding things, via Feynman.
 ---
 
 There’s a story from the renowned Richard Feynman that I like quite a bit. It goes something like this: One day, Feynman was on a hike with his father, and during their walk, Feynman’s father pointed out a bird and said, “See that bird? It’s a brown-throated thrush. In German, it’s called halzenfugel; in Chinese, it’s called a chung ling. Now you know the bird’s name but nothing about the bird itself. You only know what people in different countries call that bird.”
